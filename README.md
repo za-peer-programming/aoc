@@ -1,6 +1,5 @@
 # aoc
 
-
 # Ideas to  go through
 
 [KatasReadme](https://github.com/garora/TDD-Katas/blob/main/KatasReadme.md)
